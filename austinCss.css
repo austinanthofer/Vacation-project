@@ -47,4 +47,8 @@ h3 {
 	font-size: 2em;
 }
 
+img.align-left {
+	float: left;
+}
+
 
