@@ -61,4 +61,10 @@ p.centerText {
 	text-align: center;
 }
 
+hr	{
+	border: solid 3 black;
+	padding: 25px;
+	
+}
+
 
