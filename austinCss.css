@@ -1,0 +1,50 @@
+table.nav {width: 100%;
+    text-align: right;
+      border-collapse: collapse;
+      font-size: 24px;
+      background-color: #F0F0F0;
+
+    }
+td.navrow   {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bolder;
+}
+td.width      {width: 3em;}
+
+td.center       {text-align: center;}
+
+td.alignLeft    {text-align: left;}
+
+td.alignCenter    {text-align: center;}
+
+td.alignRight   {text-align: right;}
+
+footer {
+	width: 100%;
+	background:#F0F0F0;
+	text-align: center;
+	bottom: 0;
+	margin-bottom: -15px; 
+}
+
+#content {
+	text-align: center;
+}
+#bullet	{
+	width: 25%;
+	text-align: none;
+}
+
+h1 {
+	font-size: 2em;
+
+}
+body {
+	font-family: Verdana, Arial;
+}
+
+h3 { 
+	font-size: 2em;
+}
+
+
