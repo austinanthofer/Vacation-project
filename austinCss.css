@@ -51,4 +51,14 @@ img.align-left {
 	float: left;
 }
 
+img.align-right {
+	float: right;
+}
+
+p.centerText {
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: center;
+}
+
 
