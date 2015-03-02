@@ -1,8 +1,14 @@
+body {
+	background-color: #add8e6;
+	margin: 0;
+	padding: 0;
+}
+
 table.nav {width: 100%;
     text-align: right;
       border-collapse: collapse;
       font-size: 24px;
-      background-color: #F0F0F0;
+      background-color: #222b2e;
 
     }
 td.navrow   {
@@ -21,7 +27,7 @@ td.alignRight   {text-align: right;}
 
 footer {
 	width: 100%;
-	background:#F0F0F0;
+	background:#222b2e;
 	text-align: center;
 	bottom: 0;
 	margin-bottom: -15px; 
@@ -63,9 +69,29 @@ p.centerText {
 }
 
 hr	{
-	border: solid 3 black;
-	padding: 25px;
-	
+    border: 25px solid #222b2e;;
 }
 
+img {
+	margin: 5px;
+}
+
+
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active { color: white; }
 
